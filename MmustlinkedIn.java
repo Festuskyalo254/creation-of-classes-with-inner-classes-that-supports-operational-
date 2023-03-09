@@ -1,12 +1,7 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
-package mmustlinkedin;
-
-/**
- *
- * @author user
+ group leader
+Festus Kyalo
+SIK/B/01-01721/2021 
  */
 public class MmustlinkedIn<T> {
     private Node<T>head;
